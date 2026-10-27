@@ -1,0 +1,46 @@
+department,rank,subcategory,category,tickets
+Emergency Department,1,Wrong department context,Login / Access,17
+Emergency Department,2,Badge tap not working,Login / Access,9
+Emergency Department,2,Cannot log in,Login / Access,9
+Inpatient Pharmacy,1,Pharmacy orders not reaching dispensing cabinet,Interface,8
+Inpatient Pharmacy,2,Handoff report question,Workflow / Training,5
+Inpatient Pharmacy,2,Wrong department context,Login / Access,5
+Labor & Delivery,1,Cannot find order set,Workflow / Training,5
+Labor & Delivery,1,WOW not connecting to wifi,Hardware / Device,5
+Labor & Delivery,3,Cannot log in,Login / Access,4
+Labor & Delivery,3,Label printer not printing,Printing,4
+Labor & Delivery,3,Monitor issue,Hardware / Device,4
+Labor & Delivery,3,Printer not in Epic list,Printing,4
+Labor & Delivery,3,Scanner not reading,Hardware / Device,4
+Labor & Delivery,3,Specimen label misaligned,Printing,4
+Laboratory,1,Printer not in Epic list,Printing,7
+Laboratory,2,AVS not printing,Printing,6
+Laboratory,2,Label printer not printing,Printing,6
+Laboratory,2,Specimen label misaligned,Printing,6
+Main OR,1,Printed to wrong printer,Printing,7
+Main OR,2,Badge tap not working,Login / Access,5
+Main OR,2,Intraop documentation question,Workflow / Training,5
+Main OR,2,Label printer not printing,Printing,5
+Main OR,2,Wrong department context,Login / Access,5
+Med-Surg 4 West,1,Label printer not printing,Printing,6
+Med-Surg 4 West,1,WOW not connecting to wifi,Hardware / Device,6
+Med-Surg 4 West,3,Specimen label misaligned,Printing,5
+Medical ICU,1,Wrong department context,Login / Access,10
+Medical ICU,2,AVS not printing,Printing,5
+Medical ICU,2,Battery dead on WOW,Hardware / Device,5
+Medical ICU,2,Missing security template,Login / Access,5
+Medical ICU,2,Password reset,Login / Access,5
+PACU,1,AVS not printing,Printing,9
+PACU,2,Printed to wrong printer,Printing,7
+PACU,2,Printer not in Epic list,Printing,7
+Patient Registration,1,Specimen label misaligned,Printing,8
+Patient Registration,2,Password reset,Login / Access,6
+Patient Registration,3,AVS not printing,Printing,5
+Patient Registration,3,Cannot find order set,Workflow / Training,5
+Patient Registration,3,Cannot log in,Login / Access,5
+Patient Registration,3,How to document in flowsheet,Workflow / Training,5
+Pre-Op / Same Day Surgery,1,Cannot log in,Login / Access,7
+Pre-Op / Same Day Surgery,1,Missing security template,Login / Access,7
+Pre-Op / Same Day Surgery,3,Cannot find order set,Workflow / Training,4
+Pre-Op / Same Day Surgery,3,MAR scanning workflow,Workflow / Training,4
+Pre-Op / Same Day Surgery,3,Scanner not reading,Hardware / Device,4

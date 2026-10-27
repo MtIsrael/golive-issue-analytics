@@ -1,0 +1,11 @@
+department_id,name,unit_type,staff_count
+1,Emergency Department,Emergency,140
+2,PACU,Perioperative,45
+3,Main OR,Perioperative,90
+4,Pre-Op / Same Day Surgery,Perioperative,40
+5,Med-Surg 4 West,Inpatient,70
+6,Medical ICU,Critical Care,55
+7,Labor & Delivery,Inpatient,50
+8,Inpatient Pharmacy,Ancillary,30
+9,Laboratory,Ancillary,35
+10,Patient Registration,Access,40

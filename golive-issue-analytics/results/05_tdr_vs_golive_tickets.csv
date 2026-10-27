@@ -1,0 +1,5 @@
+tdr_status,devices,golive_tickets,tickets_per_device,devices_with_3plus_tickets
+Not retested,9,82,9.11,7
+Failed retest,9,47,5.22,7
+Pass on retest,22,64,2.91,8
+Pass,378,539,1.43,72

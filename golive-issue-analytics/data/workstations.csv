@@ -1,0 +1,419 @@
+workstation_id,device_name,department_id,device_type,location
+1,NRMC-01-WOW0001,1,Workstation on Wheels,Room 18
+2,NRMC-01-WOW0002,1,Workstation on Wheels,Room 35
+3,NRMC-01-LBL0003,1,Label Printer,Room 36
+4,NRMC-01-PC0004,1,Desktop,Room 18
+5,NRMC-01-PC0005,1,Desktop,Room 10
+6,NRMC-01-PC0006,1,Desktop,Room 23
+7,NRMC-01-LZR0007,1,Laser Printer,Room 35
+8,NRMC-01-PC0008,1,Desktop,Room 05
+9,NRMC-01-SCN0009,1,Barcode Scanner,Room 15
+10,NRMC-01-LBL0010,1,Label Printer,Room 24
+11,NRMC-01-LBL0011,1,Label Printer,Room 05
+12,NRMC-01-WOW0012,1,Workstation on Wheels,Room 30
+13,NRMC-01-LBL0013,1,Label Printer,Room 36
+14,NRMC-01-LZR0014,1,Laser Printer,Room 15
+15,NRMC-01-WOW0015,1,Workstation on Wheels,Room 37
+16,NRMC-01-PC0016,1,Desktop,Room 30
+17,NRMC-01-LZR0017,1,Laser Printer,Room 35
+18,NRMC-01-PC0018,1,Desktop,Room 15
+19,NRMC-01-LZR0019,1,Laser Printer,Room 08
+20,NRMC-01-PC0020,1,Desktop,Room 05
+21,NRMC-01-PC0021,1,Desktop,Room 17
+22,NRMC-01-WOW0022,1,Workstation on Wheels,Room 35
+23,NRMC-01-PC0023,1,Desktop,Room 30
+24,NRMC-01-LZR0024,1,Laser Printer,Room 33
+25,NRMC-01-PC0025,1,Desktop,Room 13
+26,NRMC-01-PC0026,1,Desktop,Room 34
+27,NRMC-01-WOW0027,1,Workstation on Wheels,Room 24
+28,NRMC-01-WOW0028,1,Workstation on Wheels,Room 32
+29,NRMC-01-WOW0029,1,Workstation on Wheels,Room 31
+30,NRMC-01-TAP0030,1,Badge Tap Reader,Room 28
+31,NRMC-01-LBL0031,1,Label Printer,Room 20
+32,NRMC-01-PC0032,1,Desktop,Room 08
+33,NRMC-01-WOW0033,1,Workstation on Wheels,Room 36
+34,NRMC-01-WOW0034,1,Workstation on Wheels,Room 03
+35,NRMC-01-WOW0035,1,Workstation on Wheels,Room 32
+36,NRMC-01-SCN0036,1,Barcode Scanner,Room 37
+37,NRMC-01-PC0037,1,Desktop,Room 27
+38,NRMC-01-PC0038,1,Desktop,Room 28
+39,NRMC-01-WOW0039,1,Workstation on Wheels,Room 07
+40,NRMC-01-TAP0040,1,Badge Tap Reader,Room 07
+41,NRMC-01-PC0041,1,Desktop,Room 28
+42,NRMC-01-TAP0042,1,Badge Tap Reader,Room 05
+43,NRMC-01-SCN0043,1,Barcode Scanner,Room 16
+44,NRMC-01-WOW0044,1,Workstation on Wheels,Room 26
+45,NRMC-01-SCN0045,1,Barcode Scanner,Room 17
+46,NRMC-01-SCN0046,1,Barcode Scanner,Room 36
+47,NRMC-01-WOW0047,1,Workstation on Wheels,Room 04
+48,NRMC-01-PC0048,1,Desktop,Room 34
+49,NRMC-02-TAP0049,2,Badge Tap Reader,Room 05
+50,NRMC-02-WOW0050,2,Workstation on Wheels,Room 08
+51,NRMC-02-WOW0051,2,Workstation on Wheels,Room 06
+52,NRMC-02-WOW0052,2,Workstation on Wheels,Room 21
+53,NRMC-02-LBL0053,2,Label Printer,Room 20
+54,NRMC-02-SCN0054,2,Barcode Scanner,Room 01
+55,NRMC-02-SCN0055,2,Barcode Scanner,Room 05
+56,NRMC-02-PC0056,2,Desktop,Room 35
+57,NRMC-02-SCN0057,2,Barcode Scanner,Room 34
+58,NRMC-02-LBL0058,2,Label Printer,Room 09
+59,NRMC-02-LZR0059,2,Laser Printer,Room 10
+60,NRMC-02-LBL0060,2,Label Printer,Room 14
+61,NRMC-02-WOW0061,2,Workstation on Wheels,Room 04
+62,NRMC-02-WOW0062,2,Workstation on Wheels,Room 22
+63,NRMC-02-PC0063,2,Desktop,Room 28
+64,NRMC-02-SCN0064,2,Barcode Scanner,Room 10
+65,NRMC-02-PC0065,2,Desktop,Room 10
+66,NRMC-02-WOW0066,2,Workstation on Wheels,Room 16
+67,NRMC-02-PC0067,2,Desktop,Room 27
+68,NRMC-02-WOW0068,2,Workstation on Wheels,Room 11
+69,NRMC-02-TAP0069,2,Badge Tap Reader,Room 16
+70,NRMC-02-WOW0070,2,Workstation on Wheels,Room 03
+71,NRMC-02-SCN0071,2,Barcode Scanner,Room 23
+72,NRMC-02-LBL0072,2,Label Printer,Room 26
+73,NRMC-02-SCN0073,2,Barcode Scanner,Room 18
+74,NRMC-02-SCN0074,2,Barcode Scanner,Room 35
+75,NRMC-02-SCN0075,2,Barcode Scanner,Room 12
+76,NRMC-02-LZR0076,2,Laser Printer,Room 28
+77,NRMC-02-WOW0077,2,Workstation on Wheels,Room 28
+78,NRMC-02-PC0078,2,Desktop,Room 13
+79,NRMC-03-SCN0079,3,Barcode Scanner,Room 40
+80,NRMC-03-PC0080,3,Desktop,Room 20
+81,NRMC-03-LBL0081,3,Label Printer,Room 36
+82,NRMC-03-SCN0082,3,Barcode Scanner,Room 12
+83,NRMC-03-TAP0083,3,Badge Tap Reader,Room 20
+84,NRMC-03-PC0084,3,Desktop,Room 21
+85,NRMC-03-WOW0085,3,Workstation on Wheels,Room 31
+86,NRMC-03-WOW0086,3,Workstation on Wheels,Room 40
+87,NRMC-03-LZR0087,3,Laser Printer,Room 20
+88,NRMC-03-WOW0088,3,Workstation on Wheels,Room 31
+89,NRMC-03-TAP0089,3,Badge Tap Reader,Room 37
+90,NRMC-03-WOW0090,3,Workstation on Wheels,Room 01
+91,NRMC-03-TAP0091,3,Badge Tap Reader,Room 34
+92,NRMC-03-SCN0092,3,Barcode Scanner,Room 08
+93,NRMC-03-LBL0093,3,Label Printer,Room 36
+94,NRMC-03-TAP0094,3,Badge Tap Reader,Room 40
+95,NRMC-03-SCN0095,3,Barcode Scanner,Room 29
+96,NRMC-03-LZR0096,3,Laser Printer,Room 18
+97,NRMC-03-WOW0097,3,Workstation on Wheels,Room 05
+98,NRMC-03-PC0098,3,Desktop,Room 35
+99,NRMC-03-PC0099,3,Desktop,Room 10
+100,NRMC-03-PC0100,3,Desktop,Room 35
+101,NRMC-03-TAP0101,3,Badge Tap Reader,Room 25
+102,NRMC-03-LZR0102,3,Laser Printer,Room 25
+103,NRMC-03-WOW0103,3,Workstation on Wheels,Room 25
+104,NRMC-03-PC0104,3,Desktop,Room 39
+105,NRMC-03-PC0105,3,Desktop,Room 02
+106,NRMC-03-LZR0106,3,Laser Printer,Room 11
+107,NRMC-03-PC0107,3,Desktop,Room 26
+108,NRMC-03-PC0108,3,Desktop,Room 30
+109,NRMC-03-PC0109,3,Desktop,Room 30
+110,NRMC-03-PC0110,3,Desktop,Room 27
+111,NRMC-03-LZR0111,3,Laser Printer,Room 04
+112,NRMC-03-LZR0112,3,Laser Printer,Room 03
+113,NRMC-03-WOW0113,3,Workstation on Wheels,Room 10
+114,NRMC-03-WOW0114,3,Workstation on Wheels,Room 14
+115,NRMC-03-WOW0115,3,Workstation on Wheels,Room 39
+116,NRMC-03-WOW0116,3,Workstation on Wheels,Room 20
+117,NRMC-03-PC0117,3,Desktop,Room 25
+118,NRMC-03-LBL0118,3,Label Printer,Room 16
+119,NRMC-03-LBL0119,3,Label Printer,Room 08
+120,NRMC-03-PC0120,3,Desktop,Room 24
+121,NRMC-03-WOW0121,3,Workstation on Wheels,Room 27
+122,NRMC-03-PC0122,3,Desktop,Room 30
+123,NRMC-03-LZR0123,3,Laser Printer,Room 18
+124,NRMC-03-PC0124,3,Desktop,Room 38
+125,NRMC-03-TAP0125,3,Badge Tap Reader,Room 06
+126,NRMC-03-PC0126,3,Desktop,Room 40
+127,NRMC-03-PC0127,3,Desktop,Room 21
+128,NRMC-04-WOW0128,4,Workstation on Wheels,Room 18
+129,NRMC-04-PC0129,4,Desktop,Room 13
+130,NRMC-04-PC0130,4,Desktop,Room 16
+131,NRMC-04-PC0131,4,Desktop,Room 02
+132,NRMC-04-LBL0132,4,Label Printer,Room 20
+133,NRMC-04-PC0133,4,Desktop,Room 28
+134,NRMC-04-LBL0134,4,Label Printer,Room 18
+135,NRMC-04-LZR0135,4,Laser Printer,Room 21
+136,NRMC-04-LBL0136,4,Label Printer,Room 13
+137,NRMC-04-PC0137,4,Desktop,Room 34
+138,NRMC-04-TAP0138,4,Badge Tap Reader,Room 19
+139,NRMC-04-WOW0139,4,Workstation on Wheels,Room 35
+140,NRMC-04-SCN0140,4,Barcode Scanner,Room 32
+141,NRMC-04-PC0141,4,Desktop,Room 29
+142,NRMC-04-WOW0142,4,Workstation on Wheels,Room 31
+143,NRMC-04-WOW0143,4,Workstation on Wheels,Room 04
+144,NRMC-04-SCN0144,4,Barcode Scanner,Room 06
+145,NRMC-04-PC0145,4,Desktop,Room 39
+146,NRMC-04-PC0146,4,Desktop,Room 29
+147,NRMC-04-LBL0147,4,Label Printer,Room 40
+148,NRMC-04-WOW0148,4,Workstation on Wheels,Room 14
+149,NRMC-04-WOW0149,4,Workstation on Wheels,Room 05
+150,NRMC-04-LBL0150,4,Label Printer,Room 31
+151,NRMC-04-LBL0151,4,Label Printer,Room 30
+152,NRMC-04-LZR0152,4,Laser Printer,Room 38
+153,NRMC-04-PC0153,4,Desktop,Room 10
+154,NRMC-04-WOW0154,4,Workstation on Wheels,Room 20
+155,NRMC-04-PC0155,4,Desktop,Room 20
+156,NRMC-04-PC0156,4,Desktop,Room 32
+157,NRMC-04-TAP0157,4,Badge Tap Reader,Room 21
+158,NRMC-04-SCN0158,4,Barcode Scanner,Room 18
+159,NRMC-04-WOW0159,4,Workstation on Wheels,Room 34
+160,NRMC-04-WOW0160,4,Workstation on Wheels,Room 38
+161,NRMC-04-PC0161,4,Desktop,Room 27
+162,NRMC-04-TAP0162,4,Badge Tap Reader,Room 22
+163,NRMC-04-SCN0163,4,Barcode Scanner,Room 36
+164,NRMC-04-TAP0164,4,Badge Tap Reader,Room 01
+165,NRMC-04-WOW0165,4,Workstation on Wheels,Room 34
+166,NRMC-04-LZR0166,4,Laser Printer,Room 14
+167,NRMC-04-WOW0167,4,Workstation on Wheels,Room 32
+168,NRMC-04-LBL0168,4,Label Printer,Room 16
+169,NRMC-04-WOW0169,4,Workstation on Wheels,Room 27
+170,NRMC-04-SCN0170,4,Barcode Scanner,Room 30
+171,NRMC-04-LBL0171,4,Label Printer,Room 33
+172,NRMC-04-PC0172,4,Desktop,Room 31
+173,NRMC-04-PC0173,4,Desktop,Room 39
+174,NRMC-04-WOW0174,4,Workstation on Wheels,Room 27
+175,NRMC-04-WOW0175,4,Workstation on Wheels,Room 20
+176,NRMC-04-PC0176,4,Desktop,Room 31
+177,NRMC-04-PC0177,4,Desktop,Room 30
+178,NRMC-04-WOW0178,4,Workstation on Wheels,Room 25
+179,NRMC-04-SCN0179,4,Barcode Scanner,Room 10
+180,NRMC-04-SCN0180,4,Barcode Scanner,Room 22
+181,NRMC-05-WOW0181,5,Workstation on Wheels,Room 10
+182,NRMC-05-LBL0182,5,Label Printer,Room 26
+183,NRMC-05-TAP0183,5,Badge Tap Reader,Room 35
+184,NRMC-05-TAP0184,5,Badge Tap Reader,Room 32
+185,NRMC-05-WOW0185,5,Workstation on Wheels,Room 19
+186,NRMC-05-WOW0186,5,Workstation on Wheels,Room 07
+187,NRMC-05-SCN0187,5,Barcode Scanner,Room 03
+188,NRMC-05-PC0188,5,Desktop,Room 10
+189,NRMC-05-LBL0189,5,Label Printer,Room 12
+190,NRMC-05-LBL0190,5,Label Printer,Room 32
+191,NRMC-05-LBL0191,5,Label Printer,Room 30
+192,NRMC-05-PC0192,5,Desktop,Room 19
+193,NRMC-05-PC0193,5,Desktop,Room 23
+194,NRMC-05-PC0194,5,Desktop,Room 17
+195,NRMC-05-PC0195,5,Desktop,Room 31
+196,NRMC-05-PC0196,5,Desktop,Room 19
+197,NRMC-05-WOW0197,5,Workstation on Wheels,Room 04
+198,NRMC-05-SCN0198,5,Barcode Scanner,Room 15
+199,NRMC-05-WOW0199,5,Workstation on Wheels,Room 17
+200,NRMC-05-SCN0200,5,Barcode Scanner,Room 03
+201,NRMC-05-SCN0201,5,Barcode Scanner,Room 21
+202,NRMC-05-WOW0202,5,Workstation on Wheels,Room 35
+203,NRMC-05-WOW0203,5,Workstation on Wheels,Room 11
+204,NRMC-05-WOW0204,5,Workstation on Wheels,Room 22
+205,NRMC-05-WOW0205,5,Workstation on Wheels,Room 15
+206,NRMC-05-TAP0206,5,Badge Tap Reader,Room 24
+207,NRMC-05-LBL0207,5,Label Printer,Room 17
+208,NRMC-05-SCN0208,5,Barcode Scanner,Room 07
+209,NRMC-05-LBL0209,5,Label Printer,Room 36
+210,NRMC-05-LBL0210,5,Label Printer,Room 30
+211,NRMC-05-WOW0211,5,Workstation on Wheels,Room 03
+212,NRMC-05-WOW0212,5,Workstation on Wheels,Room 16
+213,NRMC-05-PC0213,5,Desktop,Room 35
+214,NRMC-05-LBL0214,5,Label Printer,Room 32
+215,NRMC-05-WOW0215,5,Workstation on Wheels,Room 24
+216,NRMC-05-WOW0216,5,Workstation on Wheels,Room 24
+217,NRMC-05-SCN0217,5,Barcode Scanner,Room 23
+218,NRMC-05-SCN0218,5,Barcode Scanner,Room 30
+219,NRMC-05-PC0219,5,Desktop,Room 02
+220,NRMC-05-WOW0220,5,Workstation on Wheels,Room 37
+221,NRMC-05-PC0221,5,Desktop,Room 38
+222,NRMC-05-WOW0222,5,Workstation on Wheels,Room 39
+223,NRMC-06-SCN0223,6,Barcode Scanner,Room 35
+224,NRMC-06-TAP0224,6,Badge Tap Reader,Room 09
+225,NRMC-06-WOW0225,6,Workstation on Wheels,Room 21
+226,NRMC-06-WOW0226,6,Workstation on Wheels,Room 27
+227,NRMC-06-PC0227,6,Desktop,Room 24
+228,NRMC-06-WOW0228,6,Workstation on Wheels,Room 40
+229,NRMC-06-LBL0229,6,Label Printer,Room 02
+230,NRMC-06-PC0230,6,Desktop,Room 07
+231,NRMC-06-WOW0231,6,Workstation on Wheels,Room 39
+232,NRMC-06-LBL0232,6,Label Printer,Room 38
+233,NRMC-06-PC0233,6,Desktop,Room 19
+234,NRMC-06-WOW0234,6,Workstation on Wheels,Room 08
+235,NRMC-06-WOW0235,6,Workstation on Wheels,Room 29
+236,NRMC-06-PC0236,6,Desktop,Room 27
+237,NRMC-06-PC0237,6,Desktop,Room 17
+238,NRMC-06-PC0238,6,Desktop,Room 06
+239,NRMC-06-LZR0239,6,Laser Printer,Room 24
+240,NRMC-06-PC0240,6,Desktop,Room 08
+241,NRMC-06-SCN0241,6,Barcode Scanner,Room 28
+242,NRMC-06-LBL0242,6,Label Printer,Room 23
+243,NRMC-06-LBL0243,6,Label Printer,Room 15
+244,NRMC-06-PC0244,6,Desktop,Room 18
+245,NRMC-06-TAP0245,6,Badge Tap Reader,Room 40
+246,NRMC-06-WOW0246,6,Workstation on Wheels,Room 12
+247,NRMC-06-PC0247,6,Desktop,Room 12
+248,NRMC-06-LZR0248,6,Laser Printer,Room 02
+249,NRMC-06-PC0249,6,Desktop,Room 22
+250,NRMC-06-PC0250,6,Desktop,Room 37
+251,NRMC-06-WOW0251,6,Workstation on Wheels,Room 40
+252,NRMC-06-LBL0252,6,Label Printer,Room 32
+253,NRMC-06-WOW0253,6,Workstation on Wheels,Room 33
+254,NRMC-06-WOW0254,6,Workstation on Wheels,Room 38
+255,NRMC-07-WOW0255,7,Workstation on Wheels,Room 39
+256,NRMC-07-SCN0256,7,Barcode Scanner,Room 09
+257,NRMC-07-WOW0257,7,Workstation on Wheels,Room 28
+258,NRMC-07-LBL0258,7,Label Printer,Room 33
+259,NRMC-07-PC0259,7,Desktop,Room 30
+260,NRMC-07-PC0260,7,Desktop,Room 27
+261,NRMC-07-SCN0261,7,Barcode Scanner,Room 11
+262,NRMC-07-SCN0262,7,Barcode Scanner,Room 06
+263,NRMC-07-PC0263,7,Desktop,Room 34
+264,NRMC-07-LZR0264,7,Laser Printer,Room 15
+265,NRMC-07-WOW0265,7,Workstation on Wheels,Room 23
+266,NRMC-07-WOW0266,7,Workstation on Wheels,Room 13
+267,NRMC-07-LBL0267,7,Label Printer,Room 12
+268,NRMC-07-PC0268,7,Desktop,Room 38
+269,NRMC-07-LBL0269,7,Label Printer,Room 10
+270,NRMC-07-LBL0270,7,Label Printer,Room 18
+271,NRMC-07-WOW0271,7,Workstation on Wheels,Room 30
+272,NRMC-07-TAP0272,7,Badge Tap Reader,Room 06
+273,NRMC-07-PC0273,7,Desktop,Room 03
+274,NRMC-07-PC0274,7,Desktop,Room 10
+275,NRMC-07-TAP0275,7,Badge Tap Reader,Room 22
+276,NRMC-07-WOW0276,7,Workstation on Wheels,Room 16
+277,NRMC-07-PC0277,7,Desktop,Room 40
+278,NRMC-07-WOW0278,7,Workstation on Wheels,Room 27
+279,NRMC-07-LBL0279,7,Label Printer,Room 05
+280,NRMC-07-PC0280,7,Desktop,Room 17
+281,NRMC-07-PC0281,7,Desktop,Room 10
+282,NRMC-07-LBL0282,7,Label Printer,Room 26
+283,NRMC-07-PC0283,7,Desktop,Room 22
+284,NRMC-08-PC0284,8,Desktop,Room 24
+285,NRMC-08-SCN0285,8,Barcode Scanner,Room 22
+286,NRMC-08-WOW0286,8,Workstation on Wheels,Room 05
+287,NRMC-08-PC0287,8,Desktop,Room 34
+288,NRMC-08-LBL0288,8,Label Printer,Room 39
+289,NRMC-08-LZR0289,8,Laser Printer,Room 03
+290,NRMC-08-WOW0290,8,Workstation on Wheels,Room 29
+291,NRMC-08-LZR0291,8,Laser Printer,Room 15
+292,NRMC-08-TAP0292,8,Badge Tap Reader,Room 31
+293,NRMC-08-PC0293,8,Desktop,Room 29
+294,NRMC-08-PC0294,8,Desktop,Room 27
+295,NRMC-08-WOW0295,8,Workstation on Wheels,Room 17
+296,NRMC-08-PC0296,8,Desktop,Room 07
+297,NRMC-08-WOW0297,8,Workstation on Wheels,Room 11
+298,NRMC-08-WOW0298,8,Workstation on Wheels,Room 28
+299,NRMC-08-TAP0299,8,Badge Tap Reader,Room 02
+300,NRMC-08-PC0300,8,Desktop,Room 25
+301,NRMC-08-PC0301,8,Desktop,Room 07
+302,NRMC-08-WOW0302,8,Workstation on Wheels,Room 19
+303,NRMC-08-PC0303,8,Desktop,Room 40
+304,NRMC-08-SCN0304,8,Barcode Scanner,Room 39
+305,NRMC-08-WOW0305,8,Workstation on Wheels,Room 20
+306,NRMC-08-LBL0306,8,Label Printer,Room 40
+307,NRMC-08-PC0307,8,Desktop,Room 33
+308,NRMC-08-WOW0308,8,Workstation on Wheels,Room 01
+309,NRMC-08-PC0309,8,Desktop,Room 06
+310,NRMC-08-PC0310,8,Desktop,Room 33
+311,NRMC-08-LBL0311,8,Label Printer,Room 24
+312,NRMC-08-WOW0312,8,Workstation on Wheels,Room 16
+313,NRMC-08-LZR0313,8,Laser Printer,Room 22
+314,NRMC-08-PC0314,8,Desktop,Room 12
+315,NRMC-08-PC0315,8,Desktop,Room 12
+316,NRMC-08-SCN0316,8,Barcode Scanner,Room 03
+317,NRMC-08-SCN0317,8,Barcode Scanner,Room 33
+318,NRMC-08-WOW0318,8,Workstation on Wheels,Room 13
+319,NRMC-08-WOW0319,8,Workstation on Wheels,Room 22
+320,NRMC-08-PC0320,8,Desktop,Room 26
+321,NRMC-08-PC0321,8,Desktop,Room 12
+322,NRMC-08-LZR0322,8,Laser Printer,Room 18
+323,NRMC-08-WOW0323,8,Workstation on Wheels,Room 07
+324,NRMC-08-PC0324,8,Desktop,Room 39
+325,NRMC-08-PC0325,8,Desktop,Room 29
+326,NRMC-08-PC0326,8,Desktop,Room 04
+327,NRMC-08-TAP0327,8,Badge Tap Reader,Room 11
+328,NRMC-08-LBL0328,8,Label Printer,Room 29
+329,NRMC-08-PC0329,8,Desktop,Room 37
+330,NRMC-08-SCN0330,8,Barcode Scanner,Room 24
+331,NRMC-08-PC0331,8,Desktop,Room 26
+332,NRMC-08-WOW0332,8,Workstation on Wheels,Room 12
+333,NRMC-09-WOW0333,9,Workstation on Wheels,Room 17
+334,NRMC-09-LBL0334,9,Label Printer,Room 32
+335,NRMC-09-PC0335,9,Desktop,Room 06
+336,NRMC-09-LBL0336,9,Label Printer,Room 36
+337,NRMC-09-TAP0337,9,Badge Tap Reader,Room 12
+338,NRMC-09-SCN0338,9,Barcode Scanner,Room 09
+339,NRMC-09-TAP0339,9,Badge Tap Reader,Room 36
+340,NRMC-09-PC0340,9,Desktop,Room 27
+341,NRMC-09-PC0341,9,Desktop,Room 05
+342,NRMC-09-PC0342,9,Desktop,Room 36
+343,NRMC-09-WOW0343,9,Workstation on Wheels,Room 33
+344,NRMC-09-PC0344,9,Desktop,Room 11
+345,NRMC-09-SCN0345,9,Barcode Scanner,Room 19
+346,NRMC-09-SCN0346,9,Barcode Scanner,Room 18
+347,NRMC-09-WOW0347,9,Workstation on Wheels,Room 11
+348,NRMC-09-LBL0348,9,Label Printer,Room 39
+349,NRMC-09-WOW0349,9,Workstation on Wheels,Room 03
+350,NRMC-09-LZR0350,9,Laser Printer,Room 27
+351,NRMC-09-LBL0351,9,Label Printer,Room 19
+352,NRMC-09-TAP0352,9,Badge Tap Reader,Room 26
+353,NRMC-09-PC0353,9,Desktop,Room 14
+354,NRMC-09-LBL0354,9,Label Printer,Room 23
+355,NRMC-09-PC0355,9,Desktop,Room 07
+356,NRMC-09-WOW0356,9,Workstation on Wheels,Room 16
+357,NRMC-09-PC0357,9,Desktop,Room 11
+358,NRMC-09-WOW0358,9,Workstation on Wheels,Room 33
+359,NRMC-09-PC0359,9,Desktop,Room 06
+360,NRMC-09-WOW0360,9,Workstation on Wheels,Room 38
+361,NRMC-09-PC0361,9,Desktop,Room 07
+362,NRMC-09-LZR0362,9,Laser Printer,Room 26
+363,NRMC-09-PC0363,9,Desktop,Room 13
+364,NRMC-09-PC0364,9,Desktop,Room 29
+365,NRMC-09-LBL0365,9,Label Printer,Room 40
+366,NRMC-09-PC0366,9,Desktop,Room 22
+367,NRMC-09-WOW0367,9,Workstation on Wheels,Room 33
+368,NRMC-09-PC0368,9,Desktop,Room 10
+369,NRMC-09-SCN0369,9,Barcode Scanner,Room 21
+370,NRMC-09-LZR0370,9,Laser Printer,Room 20
+371,NRMC-09-PC0371,9,Desktop,Room 32
+372,NRMC-09-WOW0372,9,Workstation on Wheels,Room 22
+373,NRMC-09-PC0373,9,Desktop,Room 02
+374,NRMC-09-LBL0374,9,Label Printer,Room 38
+375,NRMC-09-PC0375,9,Desktop,Room 11
+376,NRMC-09-LBL0376,9,Label Printer,Room 03
+377,NRMC-09-PC0377,9,Desktop,Room 27
+378,NRMC-10-PC0378,10,Desktop,Room 40
+379,NRMC-10-PC0379,10,Desktop,Room 36
+380,NRMC-10-PC0380,10,Desktop,Room 12
+381,NRMC-10-PC0381,10,Desktop,Room 17
+382,NRMC-10-WOW0382,10,Workstation on Wheels,Room 36
+383,NRMC-10-SCN0383,10,Barcode Scanner,Room 19
+384,NRMC-10-PC0384,10,Desktop,Room 31
+385,NRMC-10-LZR0385,10,Laser Printer,Room 18
+386,NRMC-10-PC0386,10,Desktop,Room 26
+387,NRMC-10-WOW0387,10,Workstation on Wheels,Room 06
+388,NRMC-10-LZR0388,10,Laser Printer,Room 14
+389,NRMC-10-PC0389,10,Desktop,Room 18
+390,NRMC-10-PC0390,10,Desktop,Room 16
+391,NRMC-10-WOW0391,10,Workstation on Wheels,Room 07
+392,NRMC-10-WOW0392,10,Workstation on Wheels,Room 09
+393,NRMC-10-WOW0393,10,Workstation on Wheels,Room 31
+394,NRMC-10-WOW0394,10,Workstation on Wheels,Room 19
+395,NRMC-10-WOW0395,10,Workstation on Wheels,Room 37
+396,NRMC-10-TAP0396,10,Badge Tap Reader,Room 03
+397,NRMC-10-WOW0397,10,Workstation on Wheels,Room 03
+398,NRMC-10-LZR0398,10,Laser Printer,Room 19
+399,NRMC-10-LBL0399,10,Label Printer,Room 22
+400,NRMC-10-PC0400,10,Desktop,Room 32
+401,NRMC-10-WOW0401,10,Workstation on Wheels,Room 08
+402,NRMC-10-LBL0402,10,Label Printer,Room 12
+403,NRMC-10-PC0403,10,Desktop,Room 13
+404,NRMC-10-PC0404,10,Desktop,Room 06
+405,NRMC-10-WOW0405,10,Workstation on Wheels,Room 21
+406,NRMC-10-WOW0406,10,Workstation on Wheels,Room 18
+407,NRMC-10-PC0407,10,Desktop,Room 17
+408,NRMC-10-WOW0408,10,Workstation on Wheels,Room 08
+409,NRMC-10-LBL0409,10,Label Printer,Room 20
+410,NRMC-10-SCN0410,10,Barcode Scanner,Room 24
+411,NRMC-10-WOW0411,10,Workstation on Wheels,Room 10
+412,NRMC-10-PC0412,10,Desktop,Room 31
+413,NRMC-10-LBL0413,10,Label Printer,Room 39
+414,NRMC-10-LBL0414,10,Label Printer,Room 05
+415,NRMC-10-PC0415,10,Desktop,Room 10
+416,NRMC-10-PC0416,10,Desktop,Room 14
+417,NRMC-10-PC0417,10,Desktop,Room 04
+418,NRMC-10-PC0418,10,Desktop,Room 04

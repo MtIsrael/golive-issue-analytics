@@ -1,0 +1,7 @@
+category,tickets,fixed_at_elbow,at_elbow_pct,elbow_avg_minutes,escalated_avg_minutes
+Workflow / Training,443,356,80.4,19.0,1096.0
+Login / Access,266,76,28.6,19.0,964.0
+Printing,301,78,25.9,19.0,836.0
+Hardware / Device,165,30,18.2,18.0,1036.0
+Application / Build,193,11,5.7,17.0,1811.0
+Interface,67,0,0.0,,244.0

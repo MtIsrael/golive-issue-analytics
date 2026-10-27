@@ -1,0 +1,5 @@
+priority,sla_hours,resolved_tickets,avg_hours_to_resolve,breached,met_sla_pct
+P1,1.0,44,1.0,17,61.4
+P2,4.0,360,3.4,114,68.3
+P3,24.0,721,10.5,89,87.7
+P4,72.0,310,23.2,26,91.6

@@ -1,0 +1,9 @@
+shift,priority,tickets,avg_first_response_min,avg_hours_to_resolve,at_elbow_pct
+Day,P1,32,12.5,0.7,18.8
+Night,P1,12,22.4,1.8,16.7
+Day,P2,270,10.2,2.9,36.3
+Night,P2,90,20.6,5.0,25.6
+Day,P3,525,9.8,8.7,41.0
+Night,P3,196,17.1,15.2,35.7
+Day,P4,216,9.3,17.7,47.7
+Night,P4,94,17.9,35.8,36.2
